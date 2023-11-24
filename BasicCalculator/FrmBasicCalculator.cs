@@ -18,7 +18,7 @@ namespace BasicCalculator
         {
             InitializeComponent();
 
-        }
+        } 
 
         private void btnCompute_Click(object sender, EventArgs e)
         {
